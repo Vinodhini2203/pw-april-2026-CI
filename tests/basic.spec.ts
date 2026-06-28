@@ -1,5 +1,5 @@
 import {test,expect} from '@playwright/test'
-test.describe("Basic Playwright Handling", () => {
+test.describe("Basic Playwright Handling one", () => {
 
     //only,skip,fall,fixme,slow
 
