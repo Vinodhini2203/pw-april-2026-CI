@@ -1,7 +1,6 @@
 import {test,expect} from '@playwright/test'
 test.describe("Basic Playwright Handling", () => {
 //added second testcase
-//wrong commit
     //only,skip,fall,fixme,slow
 
 test('Verify the single click completed', async ({page}) => {
